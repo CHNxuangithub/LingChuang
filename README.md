@@ -1,15 +1,38 @@
 # 领创平板管理破解版简介
-# 一、使用演示
-关于破解后打开自己安装的应用方法演示（通过插拔耳机激活第二桌面）这只是其中一种方式，还有其他很多
-
-![第二桌面激活演示](https://user-images.githubusercontent.com/88645126/217472133-d85d3e78-2fbd-4377-9e62-1ec8d9d5f166.mp4)
-破解后表面看桌面与应用商店均与正常平板一样毫无变化，但是可以自己安装自己的应用以及联网不被发现，支持全国多地多所学校系统的适配
-![第二桌面日常使用演示](https://user-images.githubusercontent.com/88645126/217472091-24d324cd-04ec-488f-ae7e-b1ca7e9451d7.mp4)
-破解后平板教育软件以及功能不受影响
-# 二、适配机型
+# 一、已搭载破解系统的学校及机型
 卓越教育：联想k11 联想tab m10 联想tab m10 plus J606F X616F X605M X605F
+
 北京四中系列：联想k11 联想tab m10 联想tab m10 plus J606F X616F X605M X605F
 
+271教育集团 昆明行知中学 山东潍坊实验中学 昌乐二中：T11 SUPI 
+
+广东外语外贸大学附属中学：联想k11 联想tab m10 联想tab m10 plus J606F X616F X605M X605F
+
+烟台招远二中：联想k11 联想tab m10 联想tab m10 plus J606F X616F X605M X605F
+
+南海执信中学：联想k11 联想tab m10 联想tab m10 plus J606F X616F X605M X605F
+
+广东省实验中学（佛山校区）：联想k11 联想tab m10 联想tab m10 plus J606F X616F X605M X605F
+
+佛山英广实验学校：联想k11 联想tab m10 联想tab m10 plus J606F X616F X605M X605F
+
+长沙雅礼中学：联想k11 联想tab m10 联想tab m10 plus J606F X616F X605M X605F
+
+# 二、使用演示
+关于破解后打开自己安装的应用方法演示（通过插拔耳机激活第二桌面）这是其中一种方式，还有其他
+
+      #第二桌面激活演示#
+
+https://user-images.githubusercontent.com/88645126/217472091-24d324cd-04ec-488f-ae7e-b1ca7e9451d7.mp4
+
+      #破解后表面看桌面与应用商店均与正常平板一样毫无变化，但是可以自己安装自己的应用以及联网不被发现，支持全国多地多所学校系统的适配#
+
+https://user-images.githubusercontent.com/88645126/217472133-d85d3e78-2fbd-4377-9e62-1ec8d9d5f166.mp4
+
+      #破解后平板教育软件以及功能不受影响#
+
+
+# 平板使用截图
 ![mmexport1675843891237](https://user-images.githubusercontent.com/88645126/217472174-639939d1-8dd7-43cd-8951-201ad05f0b4e.jpg)
 ![mmexport1675843895874](https://user-images.githubusercontent.com/88645126/217472197-f2e9db62-bcb4-4706-a38e-834ac9114a55.jpg)
 ![mmexport1675843899808](https://user-images.githubusercontent.com/88645126/217472203-dd1eb48e-ffe9-4f80-baa5-d64d507209f4.jpg)
